@@ -6,7 +6,7 @@ namespace Employee_assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Employee! Welcome");
         }
     }
 }
